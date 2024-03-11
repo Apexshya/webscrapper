@@ -4,6 +4,11 @@
 This is a web scraping project developed using Python and Scrapy framework. The purpose of this project is to extract job details from a multi-page website listing data analyst job postings.
 
 ## Setting up the project
+
+- **Clone the repository**
+  ```bash
+  https://github.com/Apexshya/webscrapper
+
 - **Install Dependencies**
   - Install Python
   - Create a Virtual Environment with pipenv

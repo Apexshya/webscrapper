@@ -26,6 +26,15 @@ This is a web scraping project developed using Python and Scrapy framework. The 
     # - Linux and Mac:
     source ./bin/activate
     ```
+
+  - Install Scrapy
+    ```bash
+    pip install scrapy
+    ```
+
+
+
+
   - Install Project Requirements
     ```bash
     pip install -r requirements.txt

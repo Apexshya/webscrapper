@@ -7,7 +7,7 @@ This is a web scraping project developed using Python and Scrapy framework. The 
 
 - **Clone the repository**
   ```bash
-  https://github.com/Apexshya/webscrapper
+  git clone https://github.com/Apexshya/webscrapper
 
 - **Install Dependencies**
   - Install Python

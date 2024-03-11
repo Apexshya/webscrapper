@@ -39,6 +39,5 @@ This is a web scraping project developed using Python and Scrapy framework. The 
   
  - **View the data**
   ```bash
-  scrapy crawl job_spider -o items.csv #scrape data from the website, and save the scraped data to a CSV file named
-  "items.csv" in the current directory.
+  scrapy crawl job_spider -o items.csv #scrape data from the website, and save the scraped data to a CSV file named "items.csv" in the current directory.
 
